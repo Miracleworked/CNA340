@@ -1,33 +1,27 @@
-# Project Title
+# turtleWOComments-
 
 One Paragraph of project description goes here.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+These instructions will run turtlesWOComments-.py file
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+turtlesWoComments requires the following software:
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+1. [Python 3.5.3+](https://www.python.org/downloads/)
+
+2. [PyCharm 2019.1.1+](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Running
-Once installed you can run the program with the following command
 
-```
-python demo.py
-```
+Once software is installed you can run the program with the following instructions:1. Open PyCharm
 
-Add any additional ways to run the program below
+3. Go to settings and set "Python Interpreter" to Python 3.5.3+.
 
-```
-python demo.py test.txt
-```
+2. Right click "turtlesWoComments-.py" then "Open with" PyCharm.
 
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+## Acknowledgement
+
+Thanks to Zac.Thanks for [GitHub Help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) for hyperlinking
